@@ -16,3 +16,4 @@ Here I'm gonna keep some notes about everything I've learned =)
 ### Tmux
 
 - [Send commands to another tmux session](./tmux/send-keys.md)
+- [Swap windows](./tmux/swap-windows.md)
