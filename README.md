@@ -11,6 +11,7 @@ Here I'm gonna keep some notes about everything I've learned =)
 ### Unix
 
 - [Remove files recursively](./unix/remove-files-recursively.md)
+- [Toggle tap to click - libinput](./unix/toggle-tap-to-click.md)
 
 
 ### Tmux
