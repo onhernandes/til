@@ -14,6 +14,7 @@ Here I'm gonna keep some notes about everything I've learned =)
 - [Remove files recursively](./unix/remove-files-recursively.md)
 - [Toggle tap to click - libinput](./unix/toggle-tap-to-click.md)
 - [Extract .tar.gz files](./unix/extract-tar-gz.md)
+- [Join video files using ffmpeg CLI](./unix/join-video-files.md)
 
 
 ### Tmux
